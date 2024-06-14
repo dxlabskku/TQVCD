@@ -19,11 +19,9 @@ We collected the car damage images corresponding to 3/4 views from the "vehicle 
 | Front Normal (FN)    | 500      |
 | Front Breakage (FB)  | 500      |
 | Front Crushed (FC)   | 400      |
-|----------------------|----------|
 | Rear Normal (RN)     | 300      |
 | Rear Breakage (RB)   | 300      |
 | Rear Crushed (RC)    | 300      |
-|----------------------|----------|
 |       Total          | 2,300    |
 
 # Model
