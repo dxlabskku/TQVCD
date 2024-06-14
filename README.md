@@ -24,6 +24,10 @@ We collected the car damage images corresponding to 3/4 views from the "vehicle 
 | Rear Crushed (RC)    | 300      |
 |       Total          | 2,300    |
 
+** To check the full version of the dataset, please download it using the Google Drive link provided below:
+
+https://drive.google.com/drive/folders/13-gXHIlb3h4-4a0FL_FQhCB-STdQ1I1s?usp=sharing
+
 # Model
 To verify the validity of the TQVCD dataset, we constructed a binary classification model (breakage vs. normal / crushed vs. normal) trained using transfer learning techniques with five pre-trained models (ResNet-50, DenseNet-160, EfficientNet-B0, MobileNet-V2, and ViT).
 
